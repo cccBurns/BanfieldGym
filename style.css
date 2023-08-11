@@ -252,13 +252,12 @@ hr {
     margin-bottom: 20px;
 }
 
-.information {
-    padding: auto;
+.information {    
     background-color: #191A1F;    
 }
 
 .information-content {
-    display: flex;    
+    display: flex;      
 }
 
 .information-txt {
