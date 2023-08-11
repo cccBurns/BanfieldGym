@@ -508,6 +508,23 @@ input {
         margin-bottom: 30px;
     }
 
+    .services {
+        padding: 30px;
+    }
+
+    .services-content p {
+        padding: 0;
+    }
+
+    .services-group {
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+
+    .services-1 {
+        margin-bottom: 25px;
+    }
+
     .information {
         padding: 30px;
     }
