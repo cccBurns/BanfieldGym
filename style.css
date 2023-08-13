@@ -433,6 +433,10 @@ input {
     color: #4ff549;
 }
 
+.map {
+    filter: grayscale(100%) invert(92%) contrast(93%);
+}
+
 
 @media (max-width: 991px) {
 
